@@ -996,7 +996,8 @@ public class Client extends Application {
     }
 
     public static void main(String[] args) {
-    	
+
+	//Server.main(args); <- run this to use the server
         launch(args);
         
     }
